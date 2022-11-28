@@ -2,7 +2,8 @@
 
 ## 🔱BigBlackCrypto.BNB🔱
 
-* [🌍 Vision Statement](README.md)
+* [🔱 🔱 BIGBLACKCRYPTO🔱](README.md)
+* [🌍 Vision Statement](<README (1).md>)
   * [🌐Mission Statement](bigblackcrypto.bnb/vision-statement/mission-statement.md)
 * [🏎 Roadmap 2023, 2024](bigblackcrypto.bnb/roadmap-2023-2024/README.md)
   * [🍁2023: Primary Objectives](bigblackcrypto.bnb/roadmap-2023-2024/2023-primary-objectives.md)
