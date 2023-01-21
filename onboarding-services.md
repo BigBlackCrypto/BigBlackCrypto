@@ -21,4 +21,4 @@ Our knowledge of market, trend, & perceived insights have enabled us to;
 ## Community Management
 
 Need a _**technical ambassador**_? \
-When it comes to product knowledge _we are agile enough to liason_ between developers & consumers. Moderating when necessary, and guiding others where possible. We tackle the fudd, w/ facts, use case, & utility. As a conduit we translate the technical literature into more "human" conversations.&#x20;
+When it comes to product knowledge _we are agile enough to liason_ between developers & consumers. Moderating when necessary, and guiding others where possible. We tackle the fudd, w/ facts, use case, & utility. As a conduit we translate the technical literature into more "human" conversations. Providing a much need depth to the conversation.&#x20;

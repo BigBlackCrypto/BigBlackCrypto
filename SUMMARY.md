@@ -16,6 +16,12 @@
   * [ZEPOCH NODES](copy-writing/zepoch-nodes.md)
   * [🫂 SPACE ID — .bnb Handle Dominance](copy-writing/space-id-.bnb-handle-dominance.md)
   * [Portfolio Sample](copy-writing/portfolio-sample.md)
+* [🗝 Black Papers](black-papers/README.md)
+  * [NFTaaM](black-papers/nftaam/README.md)
+    * [Resilient Community Through The Economy of Transit](black-papers/nftaam/resilient-community-through-the-economy-of-transit.md)
+    * [Revenue Generation](black-papers/nftaam/revenue-generation.md)
+    * [Getting to Market](black-papers/nftaam/getting-to-market.md)
+    * [Existential Transit Problems](black-papers/nftaam/existential-transit-problems.md)
 
 ## Team
 
