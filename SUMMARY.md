@@ -18,10 +18,12 @@
   * [Portfolio Sample](copy-writing/portfolio-sample.md)
 * [🗝 Black Papers](black-papers/README.md)
   * [NFTaaM](black-papers/nftaam/README.md)
-    * [Resilient Community Through The Economy of Transit](black-papers/nftaam/resilient-community-through-the-economy-of-transit.md)
+    * [The Gamification of Decarbonization](black-papers/nftaam/the-gamification-of-decarbonization.md)
+    * [Existential Transit Problems](black-papers/nftaam/existential-transit-problems.md)
     * [Revenue Generation](black-papers/nftaam/revenue-generation.md)
     * [Getting to Market](black-papers/nftaam/getting-to-market.md)
-    * [Existential Transit Problems](black-papers/nftaam/existential-transit-problems.md)
+    * [Resilient Community Through The Economy of Transit](black-papers/nftaam/resilient-community-through-the-economy-of-transit.md)
+    * [Decentralized Ownership Models for Transit System Longevity](black-papers/nftaam/decentralized-ownership-models-for-transit-system-longevity.md)
 
 ## Team
 
