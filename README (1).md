@@ -2,7 +2,7 @@
 description: >-
   "A business that is “in the black” is usually making a profit"... hence why
   we're "BigBlackCrypto".
-cover: ../.gitbook/assets/Screen Shot 2022-10-22 at 1.25.31 AM.png
+cover: .gitbook/assets/Screen Shot 2022-10-22 at 1.25.31 AM.png
 coverY: -14.472252448313384
 ---
 

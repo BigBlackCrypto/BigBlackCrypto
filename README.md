@@ -4,8 +4,8 @@ description: Index-
 
 # 🔱 🔱 BIGBLACKCRYPTO🔱
 
-{% content-ref url="bigblackcrypto.bnb/vision-statement.md" %}
-[vision-statement.md](bigblackcrypto.bnb/vision-statement.md)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
 {% content-ref url="bigblackcrypto.bnb/roadmap-2023-2024/" %}
