@@ -28,6 +28,3 @@ Community Building as a Serivice: We will virtualize communities that the pandem
 ## Top Level Domain Issuing -
 
 &#x20;      We own over 100+ .bnb domains, we also own over 300+ domains... We hope to partner w/ the right people in order to issue "crypto handles". We desire to do this on multiple chains, w/ preference for BSC (binance smart chain). Long story short, the portfolio is fire🔥🔥🔥&#x20;
-
-* [ ] TLDs owned - 553
-* [ ] .BNB owned - 135
