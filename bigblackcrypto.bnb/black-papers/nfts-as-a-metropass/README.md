@@ -12,19 +12,19 @@ The idea behind this concept is that it could evolve transportation as a whole b
 
 The concept of "Hive Plasticity" refers to the ability of the blockchain to adapt and evolve with the community. This can be seen as a feature of NFTs as metropass, which can be personalized and adapt to the needs of different individuals and communities.
 
-The "neural highways" and "security metrics" refers to the use of blockchain technology to create secure and fast transactions and data storage. The BNB Chain, is a blockchain network developed by Binance, which allow to create BNB Domains and allows the use of Binance Coin (BNB) as a means of exchange.
+The "neural highways" and "security metrics" likely refers to the use of blockchain technology to create secure and fast transactions and data storage. The BNB Chain, is a blockchain network developed by Binance, which allow to create BNB Domains and allows the use of Binance Coin (BNB) as a means of exchange.
 
 The concept of using NFTs as a form of metropass for transportation could also lead to the creation of a "new commons" where equity on the blockchain is truly possible. This is because NFTs, as a decentralized and transparent form of digital asset, could potentially be used to create a more fair and equitable system for accessing transportation services.
 
 By using NFTs as a form of metropass, individuals would be able to purchase and use transportation services in a more democratic and decentralized way. This could potentially reduce barriers to access, such as income and social inequality, and create a more equitable system for all individuals.
 
-This transparency and immutability of the blockchain could also help ensure that the distribution of transportation services is fair and equitable. This is because all transactions and data on the blockchain are recorded in a public ledger, allowing for greater transparency and accountability in the distribution of transportation services.
+Additionally, the transparency and immutability of the blockchain could also help ensure that the distribution of transportation services is fair and equitable. This is because all transactions and data on the blockchain are recorded in a public ledger, allowing for greater transparency and accountability in the distribution of transportation services.
 
 ### _Why Fund The Acceleration of Its Adoption:_
 
-The concept of using NFTs as a metropass for transportation could lead to the creation of a "new commons" where equity on the blockchain is truly possible, by providing a decentralized, transparent, and fair system for accessing transportation services.
+Overall, the concept of using NFTs as a metropass for transportation could lead to the creation of a "new commons" where equity on the blockchain is truly possible, by providing a decentralized, transparent, and fair system for accessing transportation services.
 
-Using NFTs as a form of metropass for transportation has the potential to serve a city in a way that enhances the sovereignty of its inhabitants. By using a decentralized and transparent system for purchasing and using transportation services, it could potentially reduce the influence of foreign interference and regional state or provincial undermining.
+using NFTs as a form of metropass for transportation has the potential to serve a city in a way that enhances the sovereignty of its inhabitants. By using a decentralized and transparent system for purchasing and using transportation services, it could potentially reduce the influence of foreign interference and regional state or provincial undermining.
 
 The use of NFTs as metropass could also potentially put a city on a federal level by increasing its GDP through the growth of a more efficient and decentralized transportation system. This could also potentially attract more businesses and investment to the city, further boosting its economy.
 
