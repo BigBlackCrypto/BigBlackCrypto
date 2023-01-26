@@ -1,4 +1,4 @@
-# Tokenizing Whole Economy's
+# 💸 Tokenizing Whole Economy's
 
 One of the main benefits of tokenizing an economy is the ability to create a new revenue stream through the sale of NFTs. This can be especially valuable for businesses that operate in industries where physical goods are difficult or impossible to sell, such as digital media or online experiences. By tokenizing their products or services and selling NFTs, businesses can monetize their offerings in a way that was previously unavailable to them.
 

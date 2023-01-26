@@ -1,4 +1,4 @@
-# Hive Plasticity
+# 🐝 Hive Plasticity
 
 An NFTaaM (NFT as a metropass) system, which utilizes non-fungible tokens (NFTs) to manage access to public transportation, can benefit greatly from the principles of hive plasticity.
 

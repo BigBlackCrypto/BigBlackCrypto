@@ -2,7 +2,7 @@
 description: NFTaaM
 ---
 
-# The Gamification of Decarbonization
+# 🤩 The Gamification of Decarbonization
 
 <figure><img src="https://miro.medium.com/max/700/1*WxLxI4fmtZDNLpjrZG8m6Q.png" alt=""><figcaption></figcaption></figure>
 

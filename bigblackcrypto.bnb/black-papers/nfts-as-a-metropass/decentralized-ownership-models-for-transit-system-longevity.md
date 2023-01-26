@@ -2,7 +2,7 @@
 description: A look at the Greenbay Packers
 ---
 
-# Decentralized Ownership Models for Transit System Longevity
+# 🏈 Decentralized Ownership Models for Transit System Longevity
 
 Countering Privatization of a public good | Enhancing Public Assets
 

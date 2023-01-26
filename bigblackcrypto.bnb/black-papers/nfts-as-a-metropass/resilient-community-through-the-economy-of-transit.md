@@ -2,7 +2,7 @@
 description: Utilizing web 3.0 to its fullest capability's
 ---
 
-# Resilient Community Through The Economy of Transit
+# 💪 Resilient Community Through The Economy of Transit
 
 NFT’s as a Metropass is a new concept for the .bnb community to explore
 

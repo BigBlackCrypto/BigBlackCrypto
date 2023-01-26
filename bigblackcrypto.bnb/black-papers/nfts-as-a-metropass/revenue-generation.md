@@ -1,4 +1,4 @@
-# Revenue Generation
+# 🤑 Revenue Generation
 
 The integration of Non-Fungible Tokens (NFTs) into public transportation systems presents a unique opportunity for both users and businesses. The concept of NFTs as a Metropass (NFTaaM) utilizes the capabilities of NFTs to provide a secure and convenient way for users to access public transportation, while also leveraging watch-to-earn protocols to generate ad revenue, increase user engagement, and provide educational content.
 
